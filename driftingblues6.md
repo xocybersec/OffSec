@@ -84,7 +84,8 @@ $ chmod 777 linpeas.sh
 $ ./linpeas.sh
 ```
 *NOTE: to be able to get the file successfully on the target machine make sure to be in a writable directory such as /tmp* <br>
-  
+
+# Exploit:
 It’s showing that the machine is potentially vulnerable to CVE-2016–5195 which is the “dirty cow” kernel exploit.  <br>
 Info found <a href=https://dirtycow.ninja/>here.</a>
 ```
